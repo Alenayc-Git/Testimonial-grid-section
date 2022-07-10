@@ -35,6 +35,12 @@ body{
 
 }
 
+h1{
+    font-size: 1.36rem;
+    margin: 1rem 0;
+    color: var(--White);
+}
+
 main{
     width: 100%;
     max-width: 1440px;
