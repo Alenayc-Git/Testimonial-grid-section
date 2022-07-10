@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Site]()
-- Live Site URL: [Site]()
+- Solution URL: [Site](https://www.frontendmentor.io/solutions/testimonials-section-with-css-grid-YTFXbOPGBj)
+- Live Site URL: [Site](https://testminonialgridfm.netlify.app/)
 
 ## My process
 
